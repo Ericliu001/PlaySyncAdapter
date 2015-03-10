@@ -1,0 +1,6 @@
+/Users/liu/Developer/Android/StudioProjects/PlaySyncAdapter/Application/build/intermediates/classes/debug
+/Users/liu/Developer/Android/StudioProjects/PlaySyncAdapter/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-f0ab608511ee50ae17a49d2d6f54ab6152c9ad0d.jar
+/Users/liu/Developer/Android/StudioProjects/PlaySyncAdapter/Application/build/intermediates/pre-dexed/debug/classes-8742558a8ca800706c5dbb0608e996832bb89c62.jar
+/Users/liu/Developer/Android/StudioProjects/PlaySyncAdapter/Application/build/intermediates/pre-dexed/debug/classes-819676d71873f124f3c291f8bebbef8926782b79.jar
+/Users/liu/Developer/Android/StudioProjects/PlaySyncAdapter/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-8e5e33965ac8595fec57dd7343b57e76fddf7734.jar
+/Users/liu/Developer/Android/StudioProjects/PlaySyncAdapter/Application/build/intermediates/pre-dexed/debug/classes-6f9237f67f0d6a2b363a49aa294ee6bb8bf5480b.jar
